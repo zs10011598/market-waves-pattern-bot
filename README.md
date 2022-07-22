@@ -1,2 +1,3 @@
 # market-waves-pattern-bot
-Algorithms to find Elliot waves patterns in the BTC price 
+
+Algorithms to find Elliott waves patterns in the BTC price 
